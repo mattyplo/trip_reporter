@@ -1,0 +1,1 @@
+The trip_reporter is a simple web application designed as a repository for avid hikers to write and view trip reports.  The purpose of this project was to synthesize and apply the material learned from my courses in database technology, web development and computer science.  
